@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Application\bin\Debug\net8.0\ControleEndereco.Application.deps.json
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Application\bin\Debug\net8.0\ControleEndereco.Application.dll
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Application\bin\Debug\net8.0\ControleEndereco.Application.pdb
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Application\bin\Debug\net8.0\ControleEndereco.Domain.dll
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Application\bin\Debug\net8.0\ControleEndereco.Domain.pdb
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Application\obj\Debug\net8.0\ControleEndereco.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Application\obj\Debug\net8.0\ControleEndereco.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Application\obj\Debug\net8.0\ControleEndereco.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Application\obj\Debug\net8.0\ControleEndereco.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Application\obj\Debug\net8.0\ControleEndereco.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Application\obj\Debug\net8.0\Controle.B5CC2CEF.Up2Date
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Application\obj\Debug\net8.0\ControleEndereco.Application.dll
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Application\obj\Debug\net8.0\refint\ControleEndereco.Application.dll
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Application\obj\Debug\net8.0\ControleEndereco.Application.pdb
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Application\obj\Debug\net8.0\ref\ControleEndereco.Application.dll

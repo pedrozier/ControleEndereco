@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Infrastructure\bin\Debug\net8.0\ControleEndereco.Infrastructure.deps.json
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Infrastructure\bin\Debug\net8.0\ControleEndereco.Infrastructure.dll
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Infrastructure\bin\Debug\net8.0\ControleEndereco.Infrastructure.pdb
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Infrastructure\bin\Debug\net8.0\ControleEndereco.Domain.dll
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Infrastructure\bin\Debug\net8.0\ControleEndereco.Domain.pdb
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Infrastructure\obj\Debug\net8.0\ControleEndereco.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Infrastructure\obj\Debug\net8.0\ControleEndereco.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Infrastructure\obj\Debug\net8.0\ControleEndereco.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Infrastructure\obj\Debug\net8.0\ControleEndereco.Infrastructure.AssemblyInfo.cs
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Infrastructure\obj\Debug\net8.0\ControleEndereco.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Infrastructure\obj\Debug\net8.0\Controle.B01E55C8.Up2Date
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Infrastructure\obj\Debug\net8.0\ControleEndereco.Infrastructure.dll
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Infrastructure\obj\Debug\net8.0\refint\ControleEndereco.Infrastructure.dll
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Infrastructure\obj\Debug\net8.0\ControleEndereco.Infrastructure.pdb
+C:\Users\user\source\repos\ControleEndereco\ControleEndereco.Infrastructure\obj\Debug\net8.0\ref\ControleEndereco.Infrastructure.dll

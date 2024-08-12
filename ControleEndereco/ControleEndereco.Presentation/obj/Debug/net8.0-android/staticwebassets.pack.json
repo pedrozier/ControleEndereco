@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\ControleEndereco\\ControleEndereco.Presentation\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\ControleEndereco.Presentation.styles.css",
+      "PackagePath": "staticwebassets\\ControleEndereco.Presentation.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\ControleEndereco\\ControleEndereco.Presentation\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\ControleEndereco\\ControleEndereco.Presentation\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\ControleEndereco\\ControleEndereco.Presentation\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\ControleEndereco\\ControleEndereco.Presentation\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\ControleEndereco\\ControleEndereco.Presentation\\wwwroot\\images\\about.png",
+      "PackagePath": "staticwebassets\\images\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\ControleEndereco\\ControleEndereco.Presentation\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\ControleEndereco\\ControleEndereco.Presentation\\wwwroot\\images\\map.png",
+      "PackagePath": "staticwebassets\\images\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\ControleEndereco\\ControleEndereco.Presentation\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.ControleEndereco.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.ControleEndereco.Presentation.props",
+      "PackagePath": "build\\ControleEndereco.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.ControleEndereco.Presentation.props",
+      "PackagePath": "buildMultiTargeting\\ControleEndereco.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.ControleEndereco.Presentation.props",
+      "PackagePath": "buildTransitive\\ControleEndereco.Presentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
